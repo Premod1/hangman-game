@@ -20,3 +20,7 @@ A simple text-based Hangman game built with Python. The game randomly selects a 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Premod1/hangman-game.git
+
+
+## Flow-chart
+<img width="588" alt="Solution+-+Hangman+Flowchart+1" src="https://github.com/user-attachments/assets/7d6685dd-a709-4bb7-8adb-ee6432867f88">
